@@ -7,5 +7,6 @@ How to use:
 3) Install the apk. Make sure your pc and mobile are on the same network.
 4) Open index.js file and initialize the hostname variable with your ip address. Port by default 3000 if not available change to another one.
 5) Open terminal and activate python environment and install the libraries in 'BTP_final.py' and 'Utils.py'.
-6) Start the server by typing 'npm start' in the terminal (Python env should be active).
-7) Open the app on your mobile and go to the 'About Us' tab from the left drawer for further instructions.
+6) Install 'child_process' module by 'npm i child_process'.
+7) Start the server by typing 'npm start' in the terminal (Python env should be active).
+8) Open the app on your mobile and go to the 'About Us' tab from the left drawer for further instructions.
